@@ -50,6 +50,14 @@ td.content-lamp {
     font-size: 35px;
 }
 
+.font-27 {
+    font-size: 27px;
+}
+
+.font-21 {
+    font-size: 21px;
+}
+
 .font-weight {
     font-weight: bold;
 }
@@ -144,3 +152,18 @@ td.content-lamp {
 
 @media screen and (max-device-width: 800px),
 screen and (max-width: 800px) {}
+
+
+/*  how to use page */
+
+ol.font-21 li {
+    padding-bottom: 22px;
+}
+
+.padding-small {
+    padding: 10px 0;
+}
+
+.padding-middle {
+    padding: 26px 0;
+}
